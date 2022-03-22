@@ -1,8 +1,6 @@
 package com.example.unknownwalk
 
-import android.annotation.SuppressLint
 import android.content.Intent
-import android.net.Uri
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
 import android.widget.Button
@@ -32,11 +30,11 @@ class MainActivity : AppCompatActivity() {
 
             // if any of the edit text is empty, app should show a toast
             if (emailId.isEmpty() || subject.isEmpty() || compose.isEmpty()) {
-                toastWarning.show();
+                toastWarning.show()
                 return@setOnClickListener
             }
 
-            sendEmail(arrayOf(emailId.trimEnd()), subject, compose);
+            sendEmail(arrayOf(emailId.trimEnd()), subject, compose)
         }
     }
 
