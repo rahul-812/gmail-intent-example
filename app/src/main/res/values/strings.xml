@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Unknown Walk</string>
+    <string name="compose">Compose Mail</string>
+    <string name="hint">Type email address</string>
+    <string name="subject">Type subject</string>
+    <string name="body">Compose email</string>
+</resources>

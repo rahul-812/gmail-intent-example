@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/RAHUL/AndroidStudioProjects/UnknownWalk/app/src/main/res/drawable/bottom_sheet.xml" value="0.1625" />
+        <entry key="..\:/Users/RAHUL/AndroidStudioProjects/UnknownWalk/app/src/main/res/drawable/edit_text.xml" value="0.2578125" />
+        <entry key="..\:/Users/RAHUL/AndroidStudioProjects/UnknownWalk/app/src/main/res/drawable/ic _delete_background.xml" value="0.2578125" />
+        <entry key="..\:/Users/RAHUL/AndroidStudioProjects/UnknownWalk/app/src/main/res/drawable/ic_check_box_outline24.xml" value="0.16052631578947368" />
+        <entry key="..\:/Users/RAHUL/AndroidStudioProjects/UnknownWalk/app/src/main/res/drawable/list_item_background.xml" value="0.16282894736842105" />
+        <entry key="..\:/Users/RAHUL/AndroidStudioProjects/UnknownWalk/app/src/main/res/drawable/scroll_thumb.xml" value="0.1625" />
+        <entry key="..\:/Users/RAHUL/AndroidStudioProjects/UnknownWalk/app/src/main/res/layout/activity_fullscreen.xml" value="0.176" />
+        <entry key="..\:/Users/RAHUL/AndroidStudioProjects/UnknownWalk/app/src/main/res/layout/activity_intent.xml" value="0.1" />
+        <entry key="..\:/Users/RAHUL/AndroidStudioProjects/UnknownWalk/app/src/main/res/layout/activity_main.xml" value="0.152" />
+        <entry key="..\:/Users/RAHUL/AndroidStudioProjects/UnknownWalk/app/src/main/res/layout/dialog_window.xml" value="0.176" />
+        <entry key="..\:/Users/RAHUL/AndroidStudioProjects/UnknownWalk/app/src/main/res/layout/list_item.xml" value="0.2" />
+        <entry key="..\:/Users/RAHUL/AndroidStudioProjects/UnknownWalk/app/src/main/res/mipmap-anydpi-v26/ic _delete.xml" value="0.2578125" />
+        <entry key="..\:/Users/RAHUL/AndroidStudioProjects/UnknownWalk/app/src/main/res/mipmap-anydpi-v26/ic _delete_round.xml" value="0.2578125" />
+        <entry key="..\:/Users/RAHUL/AndroidStudioProjects/UnknownWalk/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.2578125" />
+        <entry key="..\:/Users/RAHUL/AndroidStudioProjects/UnknownWalk/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.2578125" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

@@ -1,0 +1,13 @@
+*.iml
+.gradle
+.idea
+/local.properties
+.DS_Store
+/build
+/captures
+.externalNativeBuild
+.cxx
+local.properties
+app/proguard-rules.pro
+app/src/androidTest/java/com/example/unknownwalk/ExampleInstrumentedTest.kt
+app/src/test/java/com/example/unknownwalk/ExampleUnitTest.kt
